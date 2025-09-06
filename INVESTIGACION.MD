@@ -13,45 +13,42 @@ Es el elemento que marca el cierre o fin de contenido dentro de la etiqueta.
 
 Atributos
 ¿Qué es un atributo y para qué sirve? Da un ejemplo.
+Mejor accesibilidad
+Mejor SEO (optimización para buscadores)
+Código más limpio y mantenible
+Estándares web y compatibilidad futura
+Mejor colaboración entre diseño y desarrollo.
 
-Escribe tu respuesta aquí, incluyendo un ejemplo de código como <a href="https://google.com">Ir a Google</a> y explicando qué hace el atributo href.
+Escribe tu respuesta aquí, incluyendo un ejemplo de código como <a href="https://www.mercadolibre.com.co/">Ir a Google</a> y explicando qué hace el atributo href.
 
 2. El Poder de la Semántica
 HTML Semántico
 ¿Qué es el HTML Semántico y por qué es tan importante?
 
-Escribe tu respuesta aquí, mencionando aspectos como accesibilidad (lectores de pantalla) y SEO (cómo los buscadores entienden tu página).
+es una forma de escribir HTML utilizando etiquetas que tienen significado propio sobre el contenido que contienen.
 
 Diccionario de Etiquetas Semánticas
-1: <header>:
+1: <header>:Es encabezado de una página o sección
 
-Explica su propósito aquí.
 
-2: <nav>:
+2: <nav>:Es la barra de navegación
 
-Explica su propósito aquí.
 
-3: <main>:
+3: <main>:Es el contenido principal
+ 
 
-Explica su propósito aquí.
+4: <section>:Es una sección del contenido
+ 
 
-4: <section>:
+5: <article>:Es contenido independiente y autocontenible
+ 
 
-Explica su propósito aquí.
+6: <aside>:contenido secundario o complementario
+ 
 
-5: <article>:
+7: <footer>:Es el pie de página
 
-Explica su propósito aquí.
 
-6: <aside>:
-
-Explica su propósito aquí.
-
-7: <footer>:
-
-Explica su propósito aquí.
-.
-.
 .
 .
 .
