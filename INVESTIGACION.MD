@@ -5,11 +5,11 @@ Nombre del Estudiante: [Jose Leonardo Saez Garcia ]
 Etiqueta de Apertura y Cierre
 ¿Qué es una etiqueta de apertura?
 
-Escribe tu respuesta aquí.
+ Es la etiqueta que marca la apertura o inicio elemnto definiendo el tipo de contenido 
 
 ¿Qué es una etiqueta de cierre?
 
-Escribe tu respuesta aquí.
+Es el elemento que marca el cierre o fin de contenido dentro de la etiqueta.
 
 Atributos
 ¿Qué es un atributo y para qué sirve? Da un ejemplo.
