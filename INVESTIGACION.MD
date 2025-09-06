@@ -1,15 +1,14 @@
 Taller de Investigación: Fundamentos de HTML
-Nombre del Estudiante: [Escribe tu nombre completo aquí]
+Nombre del Estudiante: Jose Leonardo Saez Garcia
 
-1. Anatomía de una Etiqueta HTML
-Etiqueta de Apertura y Cierre
+  1. Anatomía de una Etiqueta HTML
+ Es la etiqueta que anticipa la apertura de
 ¿Qué es una etiqueta de apertura?
-
-Escribe tu respuesta aquí.
+Es la etiqueta que marca el inicio de un elemento HTML.
 
 ¿Qué es una etiqueta de cierre?
 
-Escribe tu respuesta aquí.
+Es la etiqueta que marca el final del elemento HTML.
 
 Atributos
 ¿Qué es un atributo y para qué sirve? Da un ejemplo.
