@@ -49,8 +49,27 @@ Diccionario de Etiquetas Semánticas
 7: <footer>:Es el pie de página
 
 
-.
-.
-.
+8:  <h1> a <h6> :Encabezados de diferentes niveles (del más importante <h1> al menos importante
 
-20: 
+9.  <p>Celda de datos en una tabla.
+
+10. <th> Celda de encabezado en una tabla.
+
+11  <form> Formulario
+
+12. <img> Imagen
+
+13. <a>  Enlace (hipervínculo).
+
+14. <span> Contenedor en línea sin valor semántico.
+
+16.  <li>   Elemento de una lista.
+
+17. <tr> Fila en una tabla.
+
+18. <ol> Lista ordenada
+
+19. <td> Celda de datos en una tabla.
+
+20. <ul>    Lista desordenada.
+
